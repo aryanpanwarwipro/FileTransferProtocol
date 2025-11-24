@@ -1,3 +1,0 @@
-aryan:aryan123:admin
-alice:alice123:user
-abhay:abhay123:admin

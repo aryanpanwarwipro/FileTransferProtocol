@@ -1,0 +1,32 @@
+[
+    {
+        "username": "aryan",
+        "password": "d/OCZ+WVe7NOs9gyX/Cm7w==$yBnmaAuqwbBogu0n4dknjrwKuvaITvX+dZbVYqTHaWQ=",
+        "role": "admin",
+        "locked": false
+    },
+    {
+        "username": "abhay",
+        "password": "y/FgrRkcRm2rWTKzo+bOxA==$nuziIUDRh1+s2c9qFjrHyZl84HH+TsUi4aXQ/mk8dxY=",
+        "role": "admin",
+        "locked": false
+    },
+    {
+        "username": "sarvesh",
+        "password": "52JtTvyA31IZNtmqzSSJag==$0aa6Q6fC4v2UyO8h8fTaqs47WXGdkK9dvUNkK4TjzeI=",
+        "role": "user",
+        "locked": false
+    },
+    {
+        "username": "albeena",
+        "password": "pKPq2ls1tTGpDirgcU3rFw==$DjLUVd5DVVkN1zzrl6KRGbDQdr4qJTgotBW9wNzlZSg=",
+        "role": "user",
+        "locked": false
+    },
+    {
+        "username": "yash",
+        "password": "HqJWm0YZ0KoKn3h9ThRLmg==$75z+9LsYKGA2g923z+tY5HVTiY7U2yxLI+1IwjMKaKs=",
+        "role": "user",
+        "locked": false
+    }
+]

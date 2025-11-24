@@ -1,0 +1,12 @@
+2025-11-24 13:52:01,118 [INFO] [SERVER STARTED] 0.0.0.0:5001 root=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file
+2025-11-24 13:54:33,336 [INFO] [NEW CLIENT] ('127.0.0.1', 51851)
+2025-11-24 13:54:58,737 [INFO] [LOGIN OK] user=aryan from=('127.0.0.1', 51851)
+2025-11-24 13:55:56,820 [INFO] [CMD ls] user=aryan
+2025-11-24 13:58:13,636 [INFO] [NEW CLIENT] ('127.0.0.1', 52026)
+2025-11-24 13:58:22,334 [INFO] [LOGIN OK] user=albeena from=('127.0.0.1', 52026)
+2025-11-24 14:01:33,585 [INFO] [CMD ls] user=albeena
+2025-11-24 14:01:42,744 [INFO] [CMD ls] user=aryan
+2025-11-24 14:16:32,591 [INFO] [CMD create] user=albeena file=file1.txt
+2025-11-24 14:16:58,777 [INFO] [CMD update] user=albeena file=file1.txt size=36
+2025-11-24 14:17:10,424 [INFO] [CMD read] user=albeena file=file1.txt
+2025-11-24 14:17:28,647 [INFO] [CMD delete] admin=aryan file=file1.txt
