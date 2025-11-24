@@ -1,0 +1,11 @@
+----------------------SERVER-------------------------------
+
+Hii everyone this is the server side file of our File Transfer Protocol project------
+
+----------------------------------------
+
+Created by-
+Aryan Panwar
+Abhay Chauhan
+
+-----------------------------------------
