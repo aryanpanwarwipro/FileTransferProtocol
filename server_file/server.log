@@ -1,0 +1,44 @@
+2025-12-08 17:02:23,398 [INFO] [SERVER STARTED]
+2025-12-08 17:02:48,833 [INFO] [CONNECT] ('127.0.0.1', 53198)
+2025-12-08 17:02:48,870 [INFO] [AUTH OK] aryan from ('127.0.0.1', 53198)
+2025-12-08 17:02:48,873 [INFO] [LS] user=aryan admin=True
+2025-12-08 17:02:51,686 [INFO] [READ] user=aryan file=file2.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/user_data/aryan/file2.txt
+2025-12-08 17:02:55,782 [INFO] [READ] user=aryan file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/aryanfile.txt
+2025-12-08 17:02:58,852 [INFO] [READ] user=aryan file=serverfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/serverfile.txt
+2025-12-08 17:03:20,883 [INFO] [UPDATE] user=aryan file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/aryanfile.txt size=40
+2025-12-08 17:03:20,890 [INFO] [LS] user=aryan admin=True
+2025-12-08 17:03:26,196 [INFO] [READ] user=aryan file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/aryanfile.txt
+2025-12-08 17:03:44,248 [INFO] [CONNECT] ('127.0.0.1', 53307)
+2025-12-08 17:03:44,291 [INFO] [AUTH OK] albeena from ('127.0.0.1', 53307)
+2025-12-08 17:03:44,299 [INFO] [LS] user=albeena admin=False
+2025-12-08 17:03:47,399 [INFO] [READ] user=albeena file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/user_data/albeena/aryanfile.txt
+2025-12-08 17:04:02,098 [INFO] [READ] user=albeena file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/user_data/albeena/aryanfile.txt
+2025-12-08 17:04:07,335 [INFO] [DELETE] user=albeena target=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/user_data/albeena/aryanfile.txt
+2025-12-08 17:04:07,342 [INFO] [LS] user=albeena admin=False
+2025-12-08 17:04:10,582 [INFO] [READ] user=albeena file=albeenafile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/user_data/albeena/albeenafile.txt
+2025-12-08 17:25:56,289 [INFO] [QUIT] user=albeena addr=('127.0.0.1', 53307)
+2025-12-08 17:25:56,292 [INFO] [DISCONNECT] ('127.0.0.1', 53307)
+2025-12-08 17:25:59,942 [INFO] [QUIT] user=aryan addr=('127.0.0.1', 53198)
+2025-12-08 17:25:59,943 [INFO] [DISCONNECT] ('127.0.0.1', 53198)
+2025-12-08 18:05:34,323 [INFO] [CONNECT] ('127.0.0.1', 58298)
+2025-12-08 18:05:34,363 [INFO] [AUTH FAIL] aryan from ('127.0.0.1', 58298)
+2025-12-08 18:05:41,474 [INFO] [DISCONNECT] ('127.0.0.1', 58298)
+2025-12-08 18:05:41,478 [INFO] [CONNECT] ('127.0.0.1', 58317)
+2025-12-08 18:05:41,514 [INFO] [AUTH OK] aryan from ('127.0.0.1', 58317)
+2025-12-08 18:05:41,520 [INFO] [LS] user=aryan admin=True
+2025-12-08 18:05:49,525 [INFO] [QUIT] user=aryan addr=('127.0.0.1', 58317)
+2025-12-08 18:05:49,525 [INFO] [DISCONNECT] ('127.0.0.1', 58317)
+2025-12-08 18:06:11,951 [INFO] [SERVER STARTED]
+2025-12-08 18:06:41,898 [INFO] [CONNECT] ('127.0.0.1', 58444)
+2025-12-08 18:06:41,938 [INFO] [AUTH OK] aryan from ('127.0.0.1', 58444)
+2025-12-08 18:06:41,944 [INFO] [LS] user=aryan admin=True
+2025-12-08 18:06:52,608 [INFO] [CONNECT] ('127.0.0.1', 58460)
+2025-12-08 18:06:52,651 [INFO] [AUTH OK] albeena from ('127.0.0.1', 58460)
+2025-12-08 18:06:52,658 [INFO] [LS] user=albeena admin=False
+2025-12-08 18:06:59,194 [INFO] [READ] user=albeena file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/aryanfile.txt
+2025-12-08 18:07:06,045 [INFO] [READ] user=albeena file=serverfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/serverfile.txt
+2025-12-08 18:07:11,328 [INFO] [READ] user=aryan file=aryanfile.txt path=/Users/ar20641220/Desktop/Cyber/FileTransferProtocol/server_file/shared/aryanfile.txt
+2025-12-08 18:07:14,006 [INFO] [QUIT] user=aryan addr=('127.0.0.1', 58444)
+2025-12-08 18:07:14,007 [INFO] [DISCONNECT] ('127.0.0.1', 58444)
+2025-12-08 18:07:18,889 [INFO] [QUIT] user=albeena addr=('127.0.0.1', 58460)
+2025-12-08 18:07:18,890 [INFO] [DISCONNECT] ('127.0.0.1', 58460)
