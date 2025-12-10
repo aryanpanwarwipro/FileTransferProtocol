@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 import os
 import socket
@@ -8,7 +8,7 @@ import json
 import logging
 import shutil
 import time
-from securehash import verify_password  # expects server_file/securehash.py present
+from securehash import verify_password  
  
 # ---------------- Configuration ----------------
 HOST = "0.0.0.0"
